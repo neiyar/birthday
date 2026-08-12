@@ -3,8 +3,7 @@ import React from 'react'
 const LayOut = () => {
   return (
     <div>
-      LayOut
-LayOut
+     <h>bs aise hi practice kr rha tha</h>
     </div>
   )
 }
